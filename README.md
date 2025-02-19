@@ -1,2 +1,3 @@
 # GitHub
-Learning Github repository setup and workflows with Rstudio
+Learning how to setup a Github repository and implement workflows in Rstudio.
+
